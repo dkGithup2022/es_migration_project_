@@ -12,6 +12,19 @@
 - [DB 선정: Elasticsearch](#DB_선정:_Elasticsearch)
 - [아쉬운점](#아쉬운점)
 - [Migration 도구](#Migration_도구)
+---
+
+## On Progressing
+
+진행중인 내용
+
+1. [x] DB 선정 
+2. [x] Migration 방법 고안
+3. [x] elasticsearch DAO 모듈 개발  ( https://github.com/dkGithup2022/cdr_elasticsearch ) 
+4. construction: 데이터 수급 서버 다시 개발 (https://github.com/dkGithup2022/cdr_es_pulling_parent )
+5. java migration app 개발 
+6. api 개발
+
 
 ---
 
