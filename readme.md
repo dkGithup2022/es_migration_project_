@@ -22,7 +22,7 @@
 - [x] Migration 방법 고안
 - [x] elasticsearch DAO 모듈 개발  ( https://github.com/dkGithup2022/cdr_elasticsearch ) 
 - [x] 데이터 수급 서버 다시 개발 (진행중 ) (https://github.com/dkGithup2022/cdr_es_pulling_parent )
-- [ ] java migration app 개발 
+- [x] java migration app 개발 
 - [ ] api 개발
 
 
